@@ -13,3 +13,10 @@ roboflow에서 1338장의 pothole detection 데이터셋
 재현율 (Recall): 0.821
 mAP@0.5: 0.899
 
+## Code
+yolov8n을 통해 학습 진행
+epoch 10에서 성능이 상승률이 정체되지않아 epoch 20으로 다시 학습
+
+epoch 수에 따른 Precision과 Recall 결과 비교 그래프를 통해 시각화
+
+Detection 결과를 확인하기 위해 예시 이미지 2개를 통해 bounding box와 그 확률을 확인해볼 수 있다
