@@ -5,6 +5,9 @@
 # Model
 YOLOv8 (Ultralytics)
 
+# Dataset
+roboflow에서 1338장의 pothole detection 데이터셋
+
 # Result
 정확도 (Precision): 0.862
 재현율 (Recall): 0.821
