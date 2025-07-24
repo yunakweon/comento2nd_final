@@ -6,6 +6,9 @@ Yolov8(yolov8n.pt)
 ## Dataset
 1728장의 American Sign Language Letters Dataset
 
+## Result
+precision(B): 0.91, recall(B): 0.90, mAP50(B)': 0.95
+
 ## Code
 ### 성능
 best.pt의 Precision과 Recall 값 시각화
