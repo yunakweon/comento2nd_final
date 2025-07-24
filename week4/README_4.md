@@ -1,4 +1,4 @@
-# Yolov8을 활용한 American Sign Language를 객체 탐지 후 한국어로 번역
+# Yolov8을 통해 American Sign Language를 객체 탐지 후 한국어로 번역
 
 ## Model
 Yolov8(yolov8n.pt)
