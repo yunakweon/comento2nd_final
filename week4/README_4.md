@@ -1,5 +1,10 @@
-# American Sign language 
-1728장의 American Sign Language Letters Dataset을 이용하여 Yolov8을 학습
+# Yolov8을 활용한 American Sign Language를 객체 탐지 후 한국어로 번역
+
+## model
+Yolov8(yolov8n.pt)
+
+## dataset
+1728장의 American Sign Language Letters Dataset
 
 ## 성능
 best.pt의 Precision과 Recall 값 시각화
